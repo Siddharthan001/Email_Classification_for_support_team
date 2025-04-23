@@ -82,14 +82,4 @@ Developed as part of an internship assignment at [Company Name].
  License
 MIT License — feel free to use and adapt this project.
 
-yaml
-Copy
-Edit
-
----
-
-Would you like me to:
-- Insert this directly into your project?
-- Customize with Hugging Face deployment tips or an example API request?
-
-Let me know and I’ll update it right away!
+----------------------------------------
